@@ -1,10 +1,10 @@
 
 # I am
 
-- I´m live in Distrito Federal (Brazil); 
-- I study Software Engineer :technologist:
-- I like to develop both back-end and front-end.
-- I'm looking for my first job as a programmer. 
+- [x] I´m live in Distrito Federal (Brazil); 
+- [x] I study Software Engineer :technologist:
+- [x] I like to develop both back-end and front-end.
+- [x] I'm looking for my first job as a programmer. 
 
 
 ## Skills
