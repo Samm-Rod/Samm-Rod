@@ -29,10 +29,10 @@ _&nbsp;_ _![facebook](https://user-images.githubusercontent.com/86389730/1475045
 _&nbsp;_ _![gmail](https://user-images.githubusercontent.com/86389730/147504603-a258b025-ec90-4b8f-a67e-b4e21e9b00b5.png)_ _&nbsp;_
 _&nbsp;_ _![linkedin](https://user-images.githubusercontent.com/86389730/147504623-77653d58-179b-4a63-841c-5c22c126c504.png)_ _&nbsp;_
 
-_&nbsp;_ _[Instagram](https://www.instagram.com/samm_rodi/)_ _&nbsp;_
-_&nbsp;_ _[Facebook](https://www.facebook.com/profile.php?id=100074145374485)_ _&nbsp;_
-_&nbsp;_ _[Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)_ _&nbsp;_
-_&nbsp;_ _[Linkedin](https://www.linkedin.com/in/samuel-de-assis-366841202/)_ _&nbsp;_
+_&nbsp;_  _[Instagram](https://www.instagram.com/samm_rodi/)_  _&nbsp;_
+_&nbsp;_  _[Facebook](https://www.facebook.com/profile.php?id=100074145374485)_  _&nbsp;_
+_&nbsp;_  _[Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)_  _&nbsp;_
+_&nbsp;_  _[Linkedin](https://www.linkedin.com/in/samuel-de-assis-366841202/)_  _&nbsp;_
 
 
 ## Conclusion
