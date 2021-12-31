@@ -12,8 +12,7 @@
 _&nbsp;_ _![html-5 (2)](https://user-images.githubusercontent.com/86389730/147489885-7eadae0a-75a9-497f-afe1-24cdc2cee582.png)_ _&nbsp;_
 _&nbsp;_ _![css-3](https://user-images.githubusercontent.com/86389730/147490034-d8c0b023-6bbe-4b48-b222-d1e9b4f1d397.png)_ _&nbsp;_ 
 _&nbsp;_ _![php (1)](https://user-images.githubusercontent.com/86389730/147490190-1dac72ec-84ae-4f04-811b-38be127193aa.png)_ _&nbsp;_ 
-_&nbsp;_ _![programming](https://user-images.githubusercontent.com/86389730/147491217-712bd162-07c1-4838-bb41-9e0e6ea98598.png)_ _&nbsp;_ 
-_&nbsp;_ _![git](https://user-images.githubusercontent.com/86389730/147492736-a5b739a6-8e67-4285-89f1-dc51c2942426.png)_ _&nbsp;_
+
 
 ![Sammuel´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Samm-Rod&show_icons=true&theme=radical)
 
